@@ -1,2 +1,2 @@
-# Core-project-3rd-year
-add readme
+# database_project
+Database course project
